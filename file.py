@@ -12,6 +12,6 @@ for i in range (0,n):
 for i in range(0,n):
     take = raw_input()
     if take in main_array :
-        print take+"="+main_array[take]
+        print (take+"="+main_array[take])
     else :
         print "Not found"
