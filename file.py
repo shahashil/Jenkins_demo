@@ -14,4 +14,4 @@ for i in range(0,n):
     if take in main_array :
         print (take+"="+main_array[take])
     else :
-        print "Not found"
+        print ("Not found")
