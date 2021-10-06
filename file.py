@@ -1,4 +1,9 @@
 print("Calculator")
-a=int(input("Enter first number"))
-b=int(input("Enter Second Number"))
+try:
+    n = int(input())
+    print(n * 10)
+    
+except EOFError as e:
+    print(e)
+
 print("Addition is ",a+b)
