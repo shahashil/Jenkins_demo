@@ -8,3 +8,4 @@ print("4.Divide")
 choice = os.getenv("Para1")
 
 print("Your choice is ",choice)
+#https://stackoverflow.com/questions/47834898/pass-build-inputs-from-jenkins-to-python
