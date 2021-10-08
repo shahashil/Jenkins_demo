@@ -5,3 +5,5 @@ print("3.Multiply")
 print("4.Divide")
 
 choice = input("Enter choice(1/2/3/4): ")
+
+print("Your choice is ",choice)
