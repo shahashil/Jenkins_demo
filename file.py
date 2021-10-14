@@ -10,4 +10,4 @@
 # print("Your choice is ",choice)
 # #https://stackoverflow.com/questions/47834898/pass-build-inputs-from-jenkins-to-python
 a,b = 4,7
-print("Sum of ",a," and  ",b, " is, "a+b)
+print("Sum of ",a," and  ",b, " is ",a+b)
